@@ -7,8 +7,8 @@
 
 تابع age یک تاریخ را به عنوان ورودی می گیرد و سن آن را با سال و ماه نمایش می دهد.
 
-<pre>
-<code>
+```php
+<?php
 //مثال 
 echo "<div style='direction: rtl; text-align: right;'>";
 echo "<h3>مثالی از تابع &lrm;time_diff()&lrm;</h3><br>";
@@ -25,8 +25,5 @@ echo "<br>-------------------------------<br><br>";
 echo "<h3>مثالی از تابع &lrm;age()&lrm;</h3><br>";
 echo '2000-05-03 = ';
 echo age('2000-05-03')."<br>";
-</code>
-
-</pre>
-
+```
 <a href="https://backendbaz.ir/codes/?code_id=55">کتابخانه ی کاربردی تاریخ در PHP</a>
