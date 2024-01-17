@@ -26,4 +26,4 @@ echo "<h3>مثالی از تابع &lrm;age()&lrm;</h3><br>";
 echo '2000-05-03 = ';
 echo age('2000-05-03')."<br>";
 ```
-<a href="https://backendbaz.ir/codes/?code_id=55">کتابخانه ی کاربردی تاریخ در PHP</a>
+<a href="https://backendbaz.ir/online-editor/php/55">کتابخانه ی کاربردی تاریخ در PHP</a>
